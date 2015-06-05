@@ -17,7 +17,6 @@ for (y = 0; y + tileSize < gridMaxY; y += tileSize) {
 	gridRow = [];
 }
 
-
 var buildingModeX = false; 
 var buildingModeY = false;
 var startX;
